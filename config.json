@@ -1,0 +1,18 @@
+{
+  "autoview": true,
+  "antidelete": true,
+  "downloader": true,
+  "autolike": true,
+  "fakerecord": true,
+  "alwaysonline": true,
+  "dmreply": true,
+  "ai": true,
+  "chatgpt": true,
+  "statusdownloader": true,
+  "anticall": true,
+  "chatbot": true,
+  "autobio": true,
+  "autoread": true,
+  "antiban": true,
+  "codegen": true
+}

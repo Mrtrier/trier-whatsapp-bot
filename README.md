@@ -46,14 +46,6 @@ Let the world know about your bot:
 [![Share on Reddit](https://img.shields.io/badge/Share%20on-Reddit-orange?logo=reddit)](https://www.reddit.com/submit?url=https://github.com/Mrtirer/trier-whatsapp-bot&title=Check%20out%20this%20modular%20WhatsApp%20bot%20by%20MR%20TRIER!)
 
 ---
-
----
-## 🛠 Installation
-
-### 1. Clone the repo
-```bash
-git clone https://github.com/Mrtirer/trier-whatsapp-bot.git
-cd trier-whatsapp-bot
 ---
 
 ## 🌐 Connect with MR TRIER
@@ -72,4 +64,12 @@ Stay updated, get support, or join the community:
 - 📘 **[Facebook](https://www.facebook.com/profile.php?id=61572445202567)**
 - 🐦 **[X (Twitter)](https://x.com/BensonGith72518?t=nVd75xy5u63FX_pms1YB-A&s=09)**
 
+---
+---
+## 🛠 Installation
+
+### 1. Clone the repo
+```bash
+git clone https://github.com/Mrtirer/trier-whatsapp-bot.git
+cd trier-whatsapp-bot
 ---

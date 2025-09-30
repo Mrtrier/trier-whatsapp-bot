@@ -1,3 +1,5 @@
+![Bot Banner](https://copilot.microsoft.com/th/id/BCO.8064b841-fa7f-4991-9339-9f9e355f4958.png)
+
 # TRIER WhatsApp Bot 🤖
 
 A modular WhatsApp bot powered by Baileys and OpenAI, built for automation, AI chat, and community engagement. Developed by *MR TRIER* 🇰🇪

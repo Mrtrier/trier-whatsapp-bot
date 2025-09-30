@@ -25,7 +25,7 @@ Deploy this bot instantly on your favorite platform:
 [![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Mrtirer/trier-whatsapp-bot)
 
 ### 🔹 Render
-[![Deploy to Render](https://img.shields.io/badge/Deploy%20to-Render-blue?logo=render)](https://render.com/docs/deploy-from-github)
+[![Deploy to Render](https://copilot.microsoft.com/th/id/BCO.9d3e2f8e-2b6e-4c2f-8f3e-1a2c3b4d5e6f.png)](https://render.com/docs/deploy-from-github)
 
 ### 🔹 Koyeb
 [![Deploy to Koyeb](https://img.shields.io/badge/Deploy%20to-Koyeb-black?logo=koyeb)](https://www.koyeb.com/docs/deploy)
